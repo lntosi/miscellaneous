@@ -1,10 +1,10 @@
 #!/bin/bash
 
 SOURCE_SERVER="192.168.1.x"
-SOURCE_DIR="/home/vboxuser/Desktop/rsync_test_src/"
+SOURCE_DIR="~/Desktop/rsync_test_src/"
 
 DESTINATION_SERVER="192.168.1.y"
-DESTINATION_DIR="/home/vboxuser/Desktop/rsync_test_dst/"
+DESTINATION_DIR="~/Desktop/rsync_test_dst/"
 
 USER="type_your_user"
 PASSWORD="type_your_password"
