@@ -1,7 +1,7 @@
 Miscellaneous
 =============
 
-# script_rsync #
+## script_rsync
 1) Make the files executable:
 ```shell
 chmod +x script_rsync.sh
